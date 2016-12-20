@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64
+FROM docker.io/centos
 MAINTAINER SC
